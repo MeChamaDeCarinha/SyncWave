@@ -1,0 +1,13 @@
+# Packages
+node_modules
+
+# Logs
+logs
+*.log
+
+# Production
+dist
+dist-ssr
+
+# .env
+.env
